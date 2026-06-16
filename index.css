@@ -71,3 +71,31 @@ h2{
 h3{
     text-align: center;
 }
+
+/*-----------------------------------------------------------
+DIALOG
+-----------------------------------------------------------*/
+
+.DialogoCerdito1{
+    background-color: rgba(75, 72, 35, 0.5);
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.DialogoCerdito2{
+    background-color: rgb(35, 75, 47, 0.5);
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.DialogoCerdito3{
+    background-color: rgb(35, 57, 75, 0.5);
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.DialogoLobo{
+    background-color: rgb(75, 35, 35, 0.5);
+    border-radius: 10px;
+    padding: 5px;
+}
