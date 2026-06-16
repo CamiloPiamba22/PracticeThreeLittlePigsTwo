@@ -8,7 +8,10 @@ Parts of Pages
 -----------------------------------------------------------*/
 
 header{
-    padding: 5px 0px 5px 40px;
+    padding: 5px 0px 5px 0px;
+    margin: 3%;
+    margin-left: 250px;
+    margin-right: 250px;
     border-radius: 20px;
     background-color: rgb(34, 76, 116);
     color: White;
@@ -20,6 +23,7 @@ main{
     background-color: rgb(18, 24, 31);
     color: rgb(194, 194, 194);
     text-align: justify;
+    border-radius: 20px;
 }
 
 footer{
@@ -38,8 +42,16 @@ OTHERS
     height: 80px;
 }
 
+.END{
+    text-align: left;
+}
+
+.Presentation{
+    color: rgba(255, 255, 255, 0.452);
+}
+
 hr{
-    background-color: rgb(60, 139, 204);
+    background-color: rgb(32, 73, 107);
     border: none;
     height: 2px;
 }
