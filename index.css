@@ -1,0 +1,61 @@
+
+body{
+    background-color: black;
+}
+
+/*-----------------------------------------------------------
+Parts of Pages
+-----------------------------------------------------------*/
+
+header{
+    padding: 5px 0px 5px 40px;
+    border-radius: 20px;
+    background-color: rgb(34, 76, 116);
+    color: White;
+}
+
+main{
+    margin: 3%;
+    padding: 3%;
+    background-color: rgb(18, 24, 31);
+    color: rgb(194, 194, 194);
+    text-align: justify;
+}
+
+footer{
+    color: rgb(34, 76, 116);
+    margin: 3%;
+    text-align: center;
+}
+
+/*-----------------------------------------------------------
+OTHERS
+-----------------------------------------------------------*/
+
+.Empty{
+    background-color: rgba(255, 0, 0, 0);
+    border: none;
+    height: 80px;
+}
+
+hr{
+    background-color: rgb(60, 139, 204);
+    border: none;
+    height: 2px;
+}
+
+/*-----------------------------------------------------------
+TITLES
+-----------------------------------------------------------*/
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
