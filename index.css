@@ -74,25 +74,25 @@ h3{
 DIALOG
 -----------------------------------------------------------*/
 
-.DialogoCerdito1{
+.PigDialog1{
     background-color: rgba(75, 72, 35, 0.5);
     border-radius: 10px;
     padding: 5px;
 }
 
-.DialogoCerdito2{
+.PigDialog2{
     background-color: rgb(35, 75, 47, 0.5);
     border-radius: 10px;
     padding: 5px;
 }
 
-.DialogoCerdito3{
+.PigDialog3{
     background-color: rgb(35, 57, 75, 0.5);
     border-radius: 10px;
     padding: 5px;
 }
 
-.DialogoLobo{
+.WolfDialog{
     background-color: rgb(75, 35, 35, 0.5);
     border-radius: 10px;
     padding: 5px;
