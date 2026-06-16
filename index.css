@@ -8,10 +8,8 @@ Parts of Pages
 -----------------------------------------------------------*/
 
 header{
-    padding: 5px 0px 5px 0px;
+    padding: 1%;
     margin: 3%;
-    margin-left: 250px;
-    margin-right: 250px;
     border-radius: 20px;
     background-color: rgb(34, 76, 116);
     color: White;
@@ -106,4 +104,5 @@ IMAGES
 
 img{
     max-width: 100%;
+    border-radius: 20px;
 }
