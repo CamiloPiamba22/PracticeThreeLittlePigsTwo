@@ -48,10 +48,15 @@ OTHERS
     color: rgba(255, 255, 255, 0.452);
 }
 
+.Introduction{
+    text-align: center;
+}
+
 hr{
     background-color: rgb(32, 73, 107);
     border: none;
-    height: 2px;
+    height: 5px;
+    border-radius: 150%;
 }
 
 /*-----------------------------------------------------------
